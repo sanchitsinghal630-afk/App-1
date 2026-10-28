@@ -1,0 +1,5 @@
+Simple Calc is a small, fast calculator for everyday math.
+
+Features: add, subtract, multiply, divide, percent, sign toggle, backspace, light and dark mode.
+
+No ads, no tracking, no internet permission, no third-party libraries.
